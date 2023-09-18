@@ -19,9 +19,10 @@ Siga estas etapas para configurar e executar a API Spring Boot:
 2. Abra o terminal e navegue até o diretório raiz do projeto.
 
 *AcademicRecords/src/main/java/com/example/AcademicRecords/configurations/DataSourceConfig.java*
-Neste endereço terá dataSource.setUrl("jdbc:sqlite:coloque o caminho para o banco de dado aqui"); // Replace with your database
 
-O banco de dados está na *AcademicRecords/DatabaseSQLite/AcademicRecordsDB* junto com o código SQL sepadado. 
+2.1 Neste endereço *AcademicRecords/src/main/java/com/example/AcademicRecords/configurations/DataSourceConfig.java* terá o campo *dataSource.setUrl("jdbc:sqlite:coloque o caminho para o banco de dado aqui");* .
+
+  O banco de dados está na pasta *AcademicRecords/DatabaseSQLite/AcademicRecordsDB* junto com o código SQL sepadado. 
 
 3. Certifique-se de que você possui o Maven instalado. Para verificar, execute o seguinte comando:
 
