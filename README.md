@@ -1,7 +1,4 @@
 # AcademicRecordsAPI
-
-# AcademicRecordsAPI
-
 ## API Spring Boot com Swagger
 
 Este é um guia passo a passo para colocar em funcionamento uma API Spring Boot que utiliza o Swagger para documentação e testes interativos.
