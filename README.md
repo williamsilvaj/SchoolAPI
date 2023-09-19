@@ -1,7 +1,10 @@
-# AcademicRecordsAPI
+# iCausasAPI
 ## API Spring Boot com Swagger
 
+# Nome do arquivo: *AcademicRecords*
 Este é um guia passo a passo para colocar em funcionamento uma API Spring Boot que utiliza o Swagger para documentação e testes interativos.
+
+![Crud implementado](https://github.com/williamsilvaj/iCausasAPI/assets/119798187/fbf69f9f-1ec3-4e70-a978-707408c52e1f)
 
 ### Pré-requisitos
 
@@ -44,10 +47,10 @@ Isso irá compilar o projeto e baixar todas as dependências necessárias.
 O aplicativo será iniciado na porta padrão 8080.
 
 6. Abra seu navegador da web e acesse a documentação Swagger em:
+![Swagger](https://github.com/williamsilvaj/iCausasAPI/assets/119798187/b680cb5e-be30-4408-b2d6-ad770c6aa8b5)
 
 [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
 Você verá a interface do Swagger, que permite explorar e testar os endpoints da API.
 
 Pronto! Sua API Spring Boot com Swagger agora está em execução e pronta para uso.
-
